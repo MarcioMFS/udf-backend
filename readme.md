@@ -11,3 +11,5 @@ docker-compose up --build
 ```
 
 A aplicacao estara disponivel em `http://localhost:3000`.
+
+A documentacao Swagger pode ser acessada em `http://localhost:3000/api-docs`.
